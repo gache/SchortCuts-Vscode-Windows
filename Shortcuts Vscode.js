@@ -73,6 +73,12 @@
 // Shift + alt  + ↑ / ↓ // c'est le même de la dernière fois par contre pour copie un text on fait 
 // Shift + alt  +  ➔  // il copie les élément même si un text est plus long que l'autre
 
+/***********************************************/
+
+/* Multicursor avec next find match */
+
+//  Ctrl + D  il selectione le texte avec le même mot
+
 
 /***********************************************/
 
