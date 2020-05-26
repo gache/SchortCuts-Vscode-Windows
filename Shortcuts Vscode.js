@@ -40,5 +40,12 @@
 
 // Ctrl + alt +  T  La terminal integrer s'ouvre
 
+/***********************************************/
+/*  Manipuler les fênetres */
+
+// Ctrl + W            Ferme une fênetre
+// Ctrl + K  Ctrl + W  Ferme tous les fêntres
+// Ctrl + Shift + T    Reouvre la fênetre anterieur
+// Ctrl + TAB          Changer de fênetre
 
 
