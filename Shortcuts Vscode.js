@@ -8,15 +8,13 @@
  /* pour commenter le code */
 
 //  Ctrl + /
-// pour commenter un parti du code 
-// Ctrl + alt + A
+// Ctrl + alt + A  Pour commenter un parti du code 
 
 /***********************************************/
 /* Pour créer un fichier */
 
 //  si j'ai une route, par contre le ficher n'est pas encore créer  je fais 
-// Ctrl + click 
-//  une fênetre s'ouvre pour créer le fichier
+// Ctrl + click   une fênetre s'ouvre pour créer le fichier
 
 /***********************************************/
 /* pour aller vers les definitions d'une variable function etc */
@@ -33,9 +31,14 @@
 
 /* venir en arrière et en avant */
 
-// Ctrl +Z cette commande va en arrière
-// Ctrl + Shift + Z cette commande va en avant
+// Ctrl +Z  Cette commande va en arrière
+// Ctrl + Shift + Z Cette commande va en avant
 
+/***********************************************/
+
+/* Ouvrir le terminal  */
+
+// Ctrl + alt +  T  La terminal integrer s'ouvre
 
 
 
