@@ -41,11 +41,23 @@
 // Ctrl + alt +  T  La terminal integrer s'ouvre
 
 /***********************************************/
+
+
 /*  Manipuler les fênetres */
 
 // Ctrl + W            Ferme une fênetre
 // Ctrl + K  Ctrl + W  Ferme tous les fêntres
 // Ctrl + Shift + T    Reouvre la fênetre anterieur
 // Ctrl + TAB          Changer de fênetre
+
+
+/***********************************************/
+
+/* Cloner une ligne de code */
+
+// Ctrl + alt +  ↑ / ↓  Fait le clone soit vers en bas ou vers l'haut ça marche aussi si on veut cloner un morceau du code
+
+
+
 
 
