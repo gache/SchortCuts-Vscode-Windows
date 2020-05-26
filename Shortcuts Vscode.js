@@ -68,8 +68,9 @@
 
 /***********************************************/
 
+/* Multicursor avec copy */
 
-
-
+// Shift + alt  + ↑ / ↓ // c'est le même de la dernière fois par contre pour copie un text on fait 
+// Shift + alt  +  ➔  // il copie les élément même si un text est plus long que l'autre
 
 
