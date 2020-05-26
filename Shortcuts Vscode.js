@@ -74,3 +74,9 @@
 // Shift + alt  +  ➔  // il copie les élément même si un text est plus long que l'autre
 
 
+/***********************************************/
+
+/* Lower upper case */
+
+// Ctrl + Shift U  uppercase
+// Ctrl + Shift L  Lowercase
